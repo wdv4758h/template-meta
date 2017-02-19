@@ -1,0 +1,6 @@
+[submodule "cmake-gtest"]
+	path = cmake-gtest
+	url = https://github.com/wdv4758h/template-cmake-googletest
+[submodule "python-ci"]
+	path = python-ci
+	url = https://github.com/wdv4758h/python-everywhere
